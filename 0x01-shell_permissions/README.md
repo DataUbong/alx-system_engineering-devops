@@ -1,1 +1,1 @@
-Task 9: Set the mode of the file
+Task 10: set mode of file hello as olleh
