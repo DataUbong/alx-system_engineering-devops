@@ -1,1 +1,1 @@
-Script print all groups current user is in
+Task 3 changes hello file to new owner betty
