@@ -1,1 +1,1 @@
-Task 7: Script that execute permission to owner, group owner and user
+Task 8: Set the permission for user only, James Bond
